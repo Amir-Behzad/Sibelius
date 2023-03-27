@@ -140,7 +140,7 @@ Translated by [Translator]</credit-words>
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="153">
+  <measure number="1" width="226">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -167,28 +167,108 @@ Translated by [Translator]</credit-words>
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note default-x="58">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="73" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
     <instrument id="P1-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="111" default-y="-55">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="150" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="188" default-y="-45">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
     <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="94">
-   <note>
-    <rest />
-    <duration>1024</duration>
+  <measure number="2" width="168">
+   <note color="#000000" default-x="15" default-y="-45">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
     <instrument id="P1-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="53" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="91" default-y="-55">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="129" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
     <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="95">
+  <measure number="3" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -199,7 +279,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="95">
+  <measure number="4" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -210,7 +290,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 5 ==============-->
-  <measure number="5" width="94">
+  <measure number="5" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -221,7 +301,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 6 ==============-->
-  <measure number="6" width="95">
+  <measure number="6" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -232,29 +312,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 7 ==============-->
-  <measure number="7" width="94">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 8 ==============-->
-  <measure number="8" width="95">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 9 ==============-->
-  <measure number="9" width="140">
+  <measure number="7" width="140">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -268,6 +326,28 @@ Translated by [Translator]</credit-words>
     <staff-details number="1" print-object="yes" />
    </attributes>
    <note default-x="42">
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <!--============== Part: P1, Measure: 8 ==============-->
+  <measure number="8" width="98">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <!--============== Part: P1, Measure: 9 ==============-->
+  <measure number="9" width="98">
+   <note>
     <rest />
     <duration>1024</duration>
     <instrument id="P1-I1" />
@@ -343,8 +423,20 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 16 ==============-->
-  <measure number="16" width="98">
-   <note>
+  <measure number="16" width="140">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>0</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+     <system-distance>124</system-distance>
+    </system-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <note default-x="42">
     <rest />
     <duration>1024</duration>
     <instrument id="P1-I1" />
@@ -365,20 +457,8 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 18 ==============-->
-  <measure number="18" width="140">
-   <print new-system="yes">
-    <system-layout>
-     <system-margins>
-      <left-margin>0</left-margin>
-      <right-margin>0</right-margin>
-     </system-margins>
-     <system-distance>124</system-distance>
-    </system-layout>
-   </print>
-   <attributes>
-    <staff-details number="1" print-object="yes" />
-   </attributes>
-   <note default-x="42">
+  <measure number="18" width="98">
+   <note>
     <rest />
     <duration>1024</duration>
     <instrument id="P1-I1" />
@@ -454,8 +534,20 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 25 ==============-->
-  <measure number="25" width="98">
-   <note>
+  <measure number="25" width="140">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>0</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+     <system-distance>124</system-distance>
+    </system-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <note default-x="42">
     <rest />
     <duration>1024</duration>
     <instrument id="P1-I1" />
@@ -476,20 +568,8 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 27 ==============-->
-  <measure number="27" width="140">
-   <print new-system="yes">
-    <system-layout>
-     <system-margins>
-      <left-margin>0</left-margin>
-      <right-margin>0</right-margin>
-     </system-margins>
-     <system-distance>124</system-distance>
-    </system-layout>
-   </print>
-   <attributes>
-    <staff-details number="1" print-object="yes" />
-   </attributes>
-   <note default-x="42">
+  <measure number="27" width="98">
+   <note>
     <rest />
     <duration>1024</duration>
     <instrument id="P1-I1" />
@@ -565,29 +645,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 34 ==============-->
-  <measure number="34" width="98">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 35 ==============-->
-  <measure number="35" width="98">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 36 ==============-->
-  <measure number="36" width="168">
+  <measure number="34" width="153">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -609,8 +667,30 @@ Translated by [Translator]</credit-words>
     <staff>1</staff>
    </note>
   </measure>
+  <!--============== Part: P1, Measure: 35 ==============-->
+  <measure number="35" width="110">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <!--============== Part: P1, Measure: 36 ==============-->
+  <measure number="36" width="110">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
   <!--============== Part: P1, Measure: 37 ==============-->
-  <measure number="37" width="126">
+  <measure number="37" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -621,7 +701,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 38 ==============-->
-  <measure number="38" width="126">
+  <measure number="38" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -632,7 +712,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 39 ==============-->
-  <measure number="39" width="126">
+  <measure number="39" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -643,7 +723,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 40 ==============-->
-  <measure number="40" width="126">
+  <measure number="40" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -654,7 +734,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 41 ==============-->
-  <measure number="41" width="126">
+  <measure number="41" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -665,18 +745,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 42 ==============-->
-  <measure number="42" width="126">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 43 ==============-->
-  <measure number="43" width="168">
+  <measure number="42" width="153">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -698,8 +767,19 @@ Translated by [Translator]</credit-words>
     <staff>1</staff>
    </note>
   </measure>
+  <!--============== Part: P1, Measure: 43 ==============-->
+  <measure number="43" width="110">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
   <!--============== Part: P1, Measure: 44 ==============-->
-  <measure number="44" width="126">
+  <measure number="44" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -710,7 +790,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 45 ==============-->
-  <measure number="45" width="126">
+  <measure number="45" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -721,7 +801,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 46 ==============-->
-  <measure number="46" width="126">
+  <measure number="46" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -732,7 +812,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 47 ==============-->
-  <measure number="47" width="126">
+  <measure number="47" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -743,7 +823,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 48 ==============-->
-  <measure number="48" width="126">
+  <measure number="48" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -754,7 +834,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 49 ==============-->
-  <measure number="49" width="126">
+  <measure number="49" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -770,7 +850,7 @@ Translated by [Translator]</credit-words>
  </part>
  <part id="P2">
   <!--============== Part: P2, Measure: 1 ==============-->
-  <measure number="1" width="153">
+  <measure number="1" width="226">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -799,7 +879,7 @@ Translated by [Translator]</credit-words>
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note default-x="58">
+   <note default-x="73">
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -809,8 +889,8 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 2 ==============-->
-  <measure number="2" width="94">
-   <note>
+  <measure number="2" width="168">
+   <note default-x="15">
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -820,7 +900,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 3 ==============-->
-  <measure number="3" width="95">
+  <measure number="3" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -831,7 +911,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 4 ==============-->
-  <measure number="4" width="95">
+  <measure number="4" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -842,7 +922,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 5 ==============-->
-  <measure number="5" width="94">
+  <measure number="5" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -853,7 +933,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 6 ==============-->
-  <measure number="6" width="95">
+  <measure number="6" width="105">
    <note>
     <rest />
     <duration>1024</duration>
@@ -864,29 +944,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 7 ==============-->
-  <measure number="7" width="94">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P2-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P2, Measure: 8 ==============-->
-  <measure number="8" width="95">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P2-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P2, Measure: 9 ==============-->
-  <measure number="9" width="140">
+  <measure number="7" width="140">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -902,6 +960,28 @@ Translated by [Translator]</credit-words>
     <staff-details number="1" print-object="yes" />
    </attributes>
    <note default-x="42">
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <!--============== Part: P2, Measure: 8 ==============-->
+  <measure number="8" width="98">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <!--============== Part: P2, Measure: 9 ==============-->
+  <measure number="9" width="98">
+   <note>
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -977,8 +1057,22 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 16 ==============-->
-  <measure number="16" width="98">
-   <note>
+  <measure number="16" width="140">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>0</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+    </system-layout>
+    <staff-layout number="1">
+     <staff-distance>76</staff-distance>
+    </staff-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <note default-x="42">
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -999,22 +1093,8 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 18 ==============-->
-  <measure number="18" width="140">
-   <print new-system="yes">
-    <system-layout>
-     <system-margins>
-      <left-margin>0</left-margin>
-      <right-margin>0</right-margin>
-     </system-margins>
-    </system-layout>
-    <staff-layout number="1">
-     <staff-distance>76</staff-distance>
-    </staff-layout>
-   </print>
-   <attributes>
-    <staff-details number="1" print-object="yes" />
-   </attributes>
-   <note default-x="42">
+  <measure number="18" width="98">
+   <note>
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -1090,8 +1170,22 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 25 ==============-->
-  <measure number="25" width="98">
-   <note>
+  <measure number="25" width="140">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>0</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+    </system-layout>
+    <staff-layout number="1">
+     <staff-distance>76</staff-distance>
+    </staff-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <note default-x="42">
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -1112,22 +1206,8 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 27 ==============-->
-  <measure number="27" width="140">
-   <print new-system="yes">
-    <system-layout>
-     <system-margins>
-      <left-margin>0</left-margin>
-      <right-margin>0</right-margin>
-     </system-margins>
-    </system-layout>
-    <staff-layout number="1">
-     <staff-distance>76</staff-distance>
-    </staff-layout>
-   </print>
-   <attributes>
-    <staff-details number="1" print-object="yes" />
-   </attributes>
-   <note default-x="42">
+  <measure number="27" width="98">
+   <note>
     <rest />
     <duration>1024</duration>
     <instrument id="P2-I1" />
@@ -1203,29 +1283,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 34 ==============-->
-  <measure number="34" width="98">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P2-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P2, Measure: 35 ==============-->
-  <measure number="35" width="98">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P2-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P2, Measure: 36 ==============-->
-  <measure number="36" width="168">
+  <measure number="34" width="153">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -1249,8 +1307,30 @@ Translated by [Translator]</credit-words>
     <staff>1</staff>
    </note>
   </measure>
+  <!--============== Part: P2, Measure: 35 ==============-->
+  <measure number="35" width="110">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <!--============== Part: P2, Measure: 36 ==============-->
+  <measure number="36" width="110">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
   <!--============== Part: P2, Measure: 37 ==============-->
-  <measure number="37" width="126">
+  <measure number="37" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1261,7 +1341,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 38 ==============-->
-  <measure number="38" width="126">
+  <measure number="38" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1272,7 +1352,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 39 ==============-->
-  <measure number="39" width="126">
+  <measure number="39" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1283,7 +1363,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 40 ==============-->
-  <measure number="40" width="126">
+  <measure number="40" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1294,7 +1374,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 41 ==============-->
-  <measure number="41" width="126">
+  <measure number="41" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1305,18 +1385,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 42 ==============-->
-  <measure number="42" width="126">
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P2-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-  </measure>
-  <!--============== Part: P2, Measure: 43 ==============-->
-  <measure number="43" width="168">
+  <measure number="42" width="153">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -1340,8 +1409,19 @@ Translated by [Translator]</credit-words>
     <staff>1</staff>
    </note>
   </measure>
+  <!--============== Part: P2, Measure: 43 ==============-->
+  <measure number="43" width="110">
+   <note>
+    <rest />
+    <duration>1024</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+   </note>
+  </measure>
   <!--============== Part: P2, Measure: 44 ==============-->
-  <measure number="44" width="126">
+  <measure number="44" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1352,7 +1432,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 45 ==============-->
-  <measure number="45" width="126">
+  <measure number="45" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1363,7 +1443,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 46 ==============-->
-  <measure number="46" width="126">
+  <measure number="46" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1374,7 +1454,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 47 ==============-->
-  <measure number="47" width="126">
+  <measure number="47" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1385,7 +1465,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 48 ==============-->
-  <measure number="48" width="126">
+  <measure number="48" width="110">
    <note>
     <rest />
     <duration>1024</duration>
@@ -1396,7 +1476,7 @@ Translated by [Translator]</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 49 ==============-->
-  <measure number="49" width="126">
+  <measure number="49" width="110">
    <note>
     <rest />
     <duration>1024</duration>
